@@ -2,5 +2,5 @@
 
 Dashboard for job seekers.
 
-The grass IS greener on the other side. 🐄 - 'moo'
+The grass IS greener on the other side. 🐄'moo'
 
